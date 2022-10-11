@@ -1,0 +1,6 @@
+[submodule "modules/l21"]
+	path = modules/l21
+	url = git@github.com:PradeepS1ngh/level21.git
+[submodule "modules/l22"]
+	path = modules/l22
+	url = git@github.com:PradeepS1ngh/level22.git
